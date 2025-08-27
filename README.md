@@ -114,7 +114,7 @@
 
 ## Acknowledgements
 
-- Designed by KJK Innovations for research and development of low‑frequency time‑signal receivers and SDR experimentation.
+- Designed by <b>KJK Innovations</b> for research and development of low‑frequency time‑signal receivers and SDR experimentation.
 
 
 
