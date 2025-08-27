@@ -10,7 +10,7 @@
 <p>PCSK225-PICO2 is a compact, low‑cost software defined receiver designed to decode the 225 kHz Polish time signal transmitted from Solec Kujawski. The design is built around the Raspberry Pi Pico 2 (RP2350) module and supports two signal acquisition paths:
 
 - Direct sampling with a high‑speed external ADC (ADS7049)
-- Optional superhet/SSB down‑conversion using a Si4537‑D60 tuner, enabling baseband sampling with the RP2350’s internal ADC
+- Optional SSB down‑conversion using a Si4537‑D60 tuner, enabling baseband sampling with the RP2350’s internal ADC
 
 <img src="img/pcb.png" width=500px> 
 
